@@ -1,0 +1,160 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Brinn",
+      "lastName": "Jephcote",
+      "email": "bjephcote0@archive.org",
+      "dob": "1981-10-05T12:09:39Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Gabspot",
+      "experience": 36,
+      "salary": 37
+    },
+    {
+      "id": 2,
+      "firstName": "Kenneth",
+      "lastName": "MacElholm",
+      "email": "kmacelholm1@sina.com.cn",
+      "dob": "1991-09-12T22:14:02Z",
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Agivu",
+      "experience": 75,
+      "salary": 17
+    },
+    {
+      "id": 3,
+      "firstName": "Kimmy",
+      "lastName": "Penniall",
+      "email": "kpenniall2@biblegateway.com",
+      "dob": "1980-05-19T08:23:30Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Mycat",
+      "experience": 45,
+      "salary": 17
+    },
+    {
+      "firstName": "Amity",
+      "lastName": "Guillard",
+      "email": "aguillard3@blogspot.com",
+      "dob": "1992-04-28T23:34:29Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "Youopia",
+      "experience": 10,
+      "salary": 16,
+      "id": 4
+    },
+    {
+      "firstName": "Munmro",
+      "lastName": "Wrangle",
+      "email": "mwrangle4@network.org",
+      "dob": "2002-06-04T05:11:37Z",
+      "gender": "Male",
+      "education": "Post Graduate",
+      "company": "Jaxworks",
+      "experience": 63,
+      "salary": 9,
+      "id": 5
+    },
+    {
+      "firstName": "Hunter",
+      "lastName": "Lammenga",
+      "email": "hlammenga5@studiopress.com",
+      "dob": "1990-01-18T09:36:59Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "Wordpedia",
+      "experience": 10,
+      "salary": 20,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "firstName": "Dot",
+      "lastName": "Staterfield",
+      "email": "dstaterfield6@icq.com",
+      "dob": "1983-12-25T00:37:36Z",
+      "gender": "Female",
+      "education": "Post Graduate",
+      "company": "Riffpath",
+      "experience": 10,
+      "salary": 16
+    },
+    {
+      "id": 8,
+      "firstName": "Monika",
+      "lastName": "Noni",
+      "email": "mnoni7@eventbrite.com",
+      "dob": "1985-06-11T00:30:28Z",
+      "gender": "Female",
+      "education": "Matric",
+      "company": "Skinte",
+      "experience": 9,
+      "salary": 32
+    },
+    {
+      "firstName": "Ganny",
+      "lastName": "Cammacke",
+      "email": "gcammacke8@pbs.org",
+      "dob": "1997-01-01T21:36:29Z",
+      "gender": "Male",
+      "education": "Diploma",
+      "company": "Demizz",
+      "experience": 30,
+      "salary": 50,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "firstName": "William",
+      "lastName": "Farnish",
+      "email": "wfarnish9@163.com",
+      "dob": "1991-11-18T19:37:05Z",
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Teklist",
+      "experience": 6,
+      "salary": 18
+    },
+    {
+      "id": 11,
+      "firstName": "Tim",
+      "lastName": "Triggs",
+      "email": "ttriggsa@statcounter.com",
+      "dob": "1993-12-13T20:31:34Z",
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Tagpad",
+      "experience": 11,
+      "salary": 33
+    },
+    {
+      "id": 12,
+      "firstName": "Ambrose",
+      "lastName": "Khomishin",
+      "email": "akhomishinb@washington.edu",
+      "dob": "2004-08-20T06:35:39Z",
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Lajo",
+      "experience": 90,
+      "salary": 8
+    },
+    {
+      "firstName": "David",
+      "lastName": "Goliath",
+      "email": "davGol@gmail.com",
+      "dob": "1986-03-11T18:00:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "Microsoft",
+      "experience": 20,
+      "salary": 50,
+      "id": 13
+    }
+  ]
+}
